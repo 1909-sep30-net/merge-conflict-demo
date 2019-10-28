@@ -11,7 +11,7 @@ namespace ConsoleApp
 
         private static void SayHelloWorld()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("I Love Nick Escals");
         }
     }
 }
