@@ -6,9 +6,11 @@ namespace ConsoleApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("I Love Nick Escals");
-            Console.WriteLine("I Love Nick Escals");
-            Console.WriteLine("I Love Nick Escals");
+            SayHelloWorld();
+        }
+
+        private static void SayHelloWorld()
+        {
             Console.WriteLine("I Love Nick Escals");
         }
     }
