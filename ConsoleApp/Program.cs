@@ -7,6 +7,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("I Love Nick Escals");
+            Console.WriteLine("HELLLLLLLLLLOOOO");
         }
     }
 }
